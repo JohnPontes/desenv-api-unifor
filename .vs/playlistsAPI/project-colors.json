@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9c04ff2-d4ee-4d6a-9eee-e0203c77e257": {
+      "ProjectGuid": "d9c04ff2-d4ee-4d6a-9eee-e0203c77e257",
+      "DisplayName": "playlistsAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
